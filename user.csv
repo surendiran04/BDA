@@ -1,0 +1,201 @@
+user_id,name,gender,age,location
+1,Larry,M,19,Seattle
+2,Erin,M,32,Chicago
+3,Cindy,M,52,Los Angeles
+4,Peter,F,20,New York
+5,Dustin,M,31,Houston
+6,Shaun,M,53,Houston
+7,Mary,F,32,Denver
+8,Michael,F,18,Chicago
+9,Bailey,F,39,Seattle
+10,Arthur,M,31,Boston
+11,Maria,M,23,San Francisco
+12,Hannah,M,40,Boston
+13,John,F,20,Denver
+14,Joseph,M,42,Los Angeles
+15,Lucas,F,58,Atlanta
+16,Tiffany,F,54,Houston
+17,Lauren,M,20,Houston
+18,Angela,F,23,Houston
+19,Charles,M,42,Seattle
+20,Brittany,F,58,Boston
+21,Denise,M,41,Boston
+22,Timothy,M,60,Seattle
+23,Melinda,M,56,Chicago
+24,Juan,M,28,Denver
+25,Erika,F,35,Austin
+26,Matthew,M,38,New York
+27,Corey,M,20,Boston
+28,Marcia,F,35,Los Angeles
+29,Eddie,M,54,Boston
+30,Shelley,M,59,Denver
+31,Jennifer,F,59,Denver
+32,Thomas,M,34,Chicago
+33,Michelle,M,53,Austin
+34,Albert,F,55,San Francisco
+35,Kaitlyn,F,41,Houston
+36,Cynthia,M,50,Denver
+37,Brady,M,21,Los Angeles
+38,Natalie,M,58,Chicago
+39,Terri,F,56,Los Angeles
+40,Elizabeth,F,42,Atlanta
+41,Jeffrey,F,51,Seattle
+42,Laura,M,25,Austin
+43,Jamie,F,59,Boston
+44,Linda,M,36,San Francisco
+45,Annette,M,47,New York
+46,Omar,F,50,Chicago
+47,Jorge,M,58,Seattle
+48,Barbara,M,27,Boston
+49,Amy,M,52,Austin
+50,Sabrina,M,56,Boston
+51,Margaret,F,19,Los Angeles
+52,Aaron,F,37,Houston
+53,Ryan,M,33,Atlanta
+54,Heather,M,23,Denver
+55,Kara,M,52,Chicago
+56,Travis,M,60,Denver
+57,Stephen,M,34,Austin
+58,David,F,31,Austin
+59,James,M,37,San Francisco
+60,Rachel,F,46,Austin
+61,Samuel,F,25,Houston
+62,Jacqueline,M,22,Boston
+63,Jessica,M,55,Austin
+64,Jesus,M,55,Houston
+65,Holly,M,22,New York
+66,Chris,M,22,New York
+67,Alicia,F,22,Austin
+68,Sharon,M,35,Denver
+69,Maureen,M,52,Chicago
+70,Brandon,F,33,Denver
+71,Collin,F,30,Los Angeles
+72,Teresa,M,60,San Francisco
+73,Richard,F,45,San Francisco
+74,Eric,F,21,Los Angeles
+75,Robert,M,43,Boston
+76,Jason,M,33,Houston
+77,Kathy,M,52,Denver
+78,Natasha,M,45,Chicago
+79,Brittney,F,47,Houston
+80,Scott,M,46,Austin
+81,Anthony,M,21,Austin
+82,Ariel,M,23,Houston
+83,Destiny,M,44,Denver
+84,Diana,F,31,San Francisco
+85,Dean,M,28,San Francisco
+86,Chelsea,M,42,Seattle
+87,Brandy,F,36,San Francisco
+88,Jared,F,27,Houston
+89,Brett,F,31,New York
+90,Megan,M,38,New York
+91,Melissa,M,55,Denver
+92,Andrew,M,21,Austin
+93,Nicholas,M,29,Los Angeles
+94,Jordan,M,33,San Francisco
+95,Julia,M,54,Houston
+96,Tina,M,57,Los Angeles
+97,Jonathan,F,60,Atlanta
+98,Anna,F,34,Houston
+99,Nichole,F,33,Seattle
+100,Helen,F,26,Seattle
+101,Christine,F,38,Los Angeles
+102,Zachary,M,47,Atlanta
+103,Courtney,M,22,Austin
+104,Anne,M,50,Seattle
+105,Lance,M,40,Los Angeles
+106,Darius,M,41,Seattle
+107,Shawn,M,46,Austin
+108,Antonio,F,57,Austin
+109,Catherine,M,60,Austin
+110,Ashley,F,60,Los Angeles
+111,Stephanie,M,34,Los Angeles
+112,Tommy,M,53,Chicago
+113,Seth,F,36,Atlanta
+114,Curtis,M,39,Houston
+115,Drew,F,50,Denver
+116,Jimmy,F,21,Los Angeles
+117,Bonnie,F,35,New York
+118,Brent,M,39,Chicago
+119,Cody,F,28,Denver
+120,Donald,F,53,New York
+121,Danielle,M,22,Chicago
+122,Lee,M,41,Atlanta
+123,Justin,M,45,Chicago
+124,William,M,37,Boston
+125,Bridget,M,40,Houston
+126,Shane,M,60,Los Angeles
+127,Michele,F,53,San Francisco
+128,Nicole,M,33,Chicago
+129,Randall,M,44,New York
+130,Paul,M,39,San Francisco
+131,Christina,M,35,Chicago
+132,Paula,M,42,New York
+133,Ian,F,32,Houston
+134,Krista,F,40,Seattle
+135,Dana,M,32,New York
+136,Kristina,M,43,Boston
+137,April,F,22,Seattle
+138,Melody,F,59,Austin
+139,Daniel,F,52,Boston
+140,Dorothy,M,25,Seattle
+141,Luis,M,55,Seattle
+142,Susan,M,24,Atlanta
+143,Jeremy,F,40,Boston
+144,Cheryl,F,56,Austin
+145,Christopher,M,42,Atlanta
+146,Olivia,M,34,New York
+147,Taylor,F,18,Austin
+148,Andre,M,41,San Francisco
+149,Jose,M,60,Boston
+150,Katherine,F,60,Los Angeles
+151,Steven,F,50,Seattle
+152,Jon,F,38,San Francisco
+153,Renee,F,53,Chicago
+154,Meagan,M,44,San Francisco
+155,Lisa,M,57,Atlanta
+156,Brian,F,43,Austin
+157,Rachael,M,37,Seattle
+158,Deborah,M,45,Atlanta
+159,Felicia,F,47,Denver
+160,Bradley,F,31,Austin
+161,Alexander,F,28,Los Angeles
+162,Stacy,F,50,Atlanta
+163,Edward,F,23,Houston
+164,Vanessa,F,32,Houston
+165,Joshua,M,19,New York
+166,Rebecca,M,48,Atlanta
+167,Alec,M,47,San Francisco
+168,Mark,M,42,Denver
+169,Jacob,F,33,Chicago
+170,Bruce,M,24,San Francisco
+171,Julie,M,29,Austin
+172,Tyler,F,21,Austin
+173,Clayton,M,25,Denver
+174,Kylie,M,47,Austin
+175,Tony,F,46,Atlanta
+176,Kathleen,F,53,Denver
+177,Laurie,M,48,Denver
+178,Jonathon,F,33,Seattle
+179,Sheila,F,58,Houston
+180,Sierra,F,46,Los Angeles
+181,Carrie,F,33,Seattle
+182,Kristen,F,38,Austin
+183,Kenneth,M,26,Chicago
+184,Janet,M,42,Chicago
+185,Allison,M,22,San Francisco
+186,Kristin,F,39,Austin
+187,Jackie,F,44,New York
+188,Connie,M,44,San Francisco
+189,Alan,M,54,San Francisco
+190,Tammy,F,18,Boston
+191,Sarah,F,42,San Francisco
+192,Gina,M,49,Houston
+193,Alexandra,F,45,Denver
+194,Veronica,M,42,Boston
+195,Ashlee,F,28,Denver
+196,Johnny,M,57,Austin
+197,Debra,M,43,Atlanta
+198,Amber,M,23,San Francisco
+199,Sherry,M,47,Chicago
+200,Kimberly,M,34,San Francisco

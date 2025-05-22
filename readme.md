@@ -113,12 +113,6 @@ In addition to recommendation features, the dashboard includes **data visualizat
 
 ---
 
-### 🖥️ Console Output
-*Also logged to a separate `output.txt` file*  
-![Console Output](screenshots/console_output.jpg)
-
----
-
 ### 📊 User Similarity Matrix
 ![User Similarity Matrix](screenshots/user_similarity_matrix.jpg)
 

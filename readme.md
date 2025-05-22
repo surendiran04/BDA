@@ -75,9 +75,64 @@ In addition to recommendation features, the dashboard includes **data visualizat
 
 ---
 
-## 📹 Demo Video
+## 🖼️ Screenshots
 
-👉 [Add your demo video link here once ready]
+### 📌 Homepage
+![Homepage](screenshots/homepage.jpg)
+
+---
+
+### 👤 User-Based Products Recommendation (UBCF)
+![User-Based CF](screenshots/user_based_cf.jpg)
+
+---
+
+### 🔗 Hybrid Recommendations (IBCF + Content-Based)
+![Hybrid Recommendations](screenshots/hybrid_recommendation.jpg)
+
+---
+
+### 🎯 Usage of Filters
+
+**(i) Price Filter –** Recommends products in ascending order of price  
+![Price Filter](screenshots/price_filter.jpg)
+
+**(ii) Rating Filter –** Recommends products in descending order of ratings  
+![Rating Filter](screenshots/rating_filter.jpg)
+
+---
+
+### 🙋 Handling New Users (Data Entry in Database)
+![New User Handling](screenshots/new_user_entry.jpg)
+
+---
+
+### 🛍️ Item Display & Dynamic User-Item Interaction (Buy Option)
+*Interacted data stored in MongoDB*
+![Buy Option](screenshots/item_interaction.jpg)
+
+---
+
+### 🖥️ Console Output
+*Also logged to a separate `output.txt` file*  
+![Console Output](screenshots/console_output.jpg)
+
+---
+
+### 📊 User Similarity Matrix
+![User Similarity Matrix](screenshots/user_similarity_matrix.jpg)
+
+---
+
+### 📚 Term-Document Matrix (TDM) & Item Similarity Matrix
+![TDM & Item Similarity](screenshots/tdm_item_similarity.jpg)
+
+---
+
+### 🔢 Similarity Calculation & Top-N Product Selection
+![Top-N Calculation](screenshots/similarity_topn.jpg)
+
+---
 
 ---
 
